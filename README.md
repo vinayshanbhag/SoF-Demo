@@ -3,6 +3,7 @@ SMART on FHIR
 
 An **iOS sample app** using SMART on FHIR via our [iOS SMART on FHIR framework](https://github.com/p2/SMART-on-FHIR-Cocoa).
 
+<img src="https://raw.githubusercontent.com/vinayshanbhag/SoF-Demo/master/demo.gif" height='600px'/>
 
 ## Installation
 
